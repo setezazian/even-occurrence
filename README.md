@@ -1,4 +1,4 @@
-# evenOccurence
+# Even Occurence
 
 Find the first item that occurs an even number of times in an array.
 
